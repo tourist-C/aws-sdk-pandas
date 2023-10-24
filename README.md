@@ -4,6 +4,8 @@ AWS Data Wrangler is now **AWS SDK for pandas (awswrangler)**.  We’re changing
 
 *Pandas on AWS*
 
+TEST
+
 Easy integration with Athena, Glue, Redshift, Timestream, OpenSearch, Neptune, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 
 ![AWS SDK for pandas](docs/source/_static/logo2.png?raw=true "AWS SDK for pandas")
